@@ -1,2 +1,2 @@
 # Car_Color_Detection
-This 
+This project uses Convolutional Neural Networks (CNN) to identify the color of cars in images. The model is trained on categorized car image datasets, resized to ensure consistency, and processed for accurate predictions. Data augmentation techniques and regularization improve model performance. The system outputs a robust classifier capable of detecting car colors across unseen test data.
